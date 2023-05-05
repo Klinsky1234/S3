@@ -52,3 +52,6 @@ def S3_hw3():
         print(script[question])
     else:
         print("кожанный, твоя - моя не понимай!")
+
+
+S3_hw3()
